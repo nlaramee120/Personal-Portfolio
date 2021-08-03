@@ -1,0 +1,17 @@
+header {
+    text-align: center;
+    background: rgb(201, 40, 40);
+    padding: 35px;
+}
+
+nav {
+    text-align: right;
+    background: black;
+    color: white;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    
+}
