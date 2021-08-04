@@ -13,7 +13,8 @@ nav {
 
 nav a {
     color: white;
-    word-spacing: 20px;
+    padding: 20px;
+    font-weight: 800
     
 }
 
