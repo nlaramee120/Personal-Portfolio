@@ -1,3 +1,10 @@
+# Personal Portfolio
+## 
+AS AN employer
+YOU will be able to view a potential employee's deployed portfolio of work samples
+SO THAT you can review samples of their work and assess whether they're a good
+candidate for an open position
+
 ![(Screenshot)] (assets/C:\Users\nlara\nlaramee\2_Homework\assets\screencapture-file-C-Users-nlara-nlaramee-2-Homework-index-html-2021-08-07-00_06_29.png)
 link to deployed application - https://nlaramee120.github.io/Personal-Portfolio/
 
