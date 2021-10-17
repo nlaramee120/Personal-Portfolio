@@ -28,8 +28,9 @@ nav {
     padding: 15px;
 }
 
-nav a:hover {
+nav a,nav a:hover {
     color: blueviolet;
+    text-decoration: none;
 }
 
 /* a {
