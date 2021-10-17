@@ -32,8 +32,12 @@ nav a:hover {
     color: blueviolet;
 }
 
-a {
+/* a {
     text-decoration: none;
+} */
+
+.links:hover {
+    opacity: 50%;
 }
 
 nav a {
